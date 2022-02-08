@@ -1,0 +1,7 @@
+package com.te.supercallingstmt;
+
+public class SuperCallingStmt {
+	public static void main(String[] args) {
+		SuperCallingStmt obj = new SuperCallingStmt();
+	}
+}

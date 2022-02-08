@@ -1,0 +1,22 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ã‘ùşıÿÿÿÿ8ü³è‡Ó/HúRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(òû½8ü³è‡Ó/HıRMAJORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(ÿı³°8ü³è‡Ó/HÿRMAJORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(òû½8ü³è‡Ó/HûRMAJORZ
+CODE_SMELL
+m
+java:S2209"5Change this instance-reference to a static reference.(ê†éöûÿÿÿÿ8®øè‡Ó/H†RMAJORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(ò©—Ó8•¨é‡Ó/HRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÿı³°8®øè‡Ó/HˆRMAJORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(ã˜™Îúÿÿÿÿ8ü³è‡Ó/HşRMAJORZ
+CODE_SMELL

@@ -1,0 +1,12 @@
+package com.te.supercallingstmt;
+
+public class Child extends Parent{
+	int x;
+	int y;
+	public Child(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+	
+		
+}

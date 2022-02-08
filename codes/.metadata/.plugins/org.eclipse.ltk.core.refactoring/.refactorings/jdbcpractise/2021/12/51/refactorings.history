@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.te.jdbcbatch&apos; to &apos;jdbcmaterial/src&apos;&#x0D;&#x0A;- Original project: &apos;jdbcpractise&apos;&#x0D;&#x0A;- Destination element: &apos;jdbcmaterial/src&apos;&#x0D;&#x0A;- Original element: &apos;jdbcpractise/src/com.te.jdbcbatch&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=jdbcmaterial/src" element1="/src&lt;com.te.jdbcbatch" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1639594055327" version="1.0"/>
+</session>

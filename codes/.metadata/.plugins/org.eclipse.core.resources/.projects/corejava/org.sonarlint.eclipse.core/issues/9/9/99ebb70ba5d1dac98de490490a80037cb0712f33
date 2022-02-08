@@ -1,0 +1,11 @@
+
+l	java:S125"<This block of commented-out lines of code should be removed.(‹¾«ÏøÿÿÿÿH§RMAJORZ
+CODE_SMELL
+l	java:S125	"<This block of commented-out lines of code should be removed.(Üƒ­üÿÿÿÿHªRMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ĞÔªşÿÿÿÿH¬RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿH²RMAJORZ
+CODE_SMELL
+ˆ	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(­í¨½øÿÿÿÿH³RMAJORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ö­Öa8Ç’ÉÔ/HÒRMAJORZ
+CODE_SMELL
+‘
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ç’ÉÔ/HÓRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¤íóÉûÿÿÿÿ8Ç’ÉÔ/HÔRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(˜ôØÒ8Ç’ÉÔ/HÕRMAJORZ
+CODE_SMELL

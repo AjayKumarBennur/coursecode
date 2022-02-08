@@ -1,0 +1,9 @@
+package com.technoelevate.hashsetimpl;
+
+public class Main {
+	public static void main(String[] args) {
+		LinkedListImpl l = new LinkedListImpl();
+		l.insert(2);
+		System.out.println(l);
+	}
+}

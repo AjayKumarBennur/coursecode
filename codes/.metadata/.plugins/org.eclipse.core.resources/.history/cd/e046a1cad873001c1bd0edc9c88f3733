@@ -1,0 +1,28 @@
+package com.te.rest.dto;
+
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@Entity
+@AllArgsConstructor
+@NoArgsConstructor
+public class StudentInfo {
+	
+	@Id
+	@Column(name = "emp_id")
+	private Integer id;
+	private String name;
+	private String mail;
+	private String password;
+	private Date dob;
+	private Long mobile;
+	
+}

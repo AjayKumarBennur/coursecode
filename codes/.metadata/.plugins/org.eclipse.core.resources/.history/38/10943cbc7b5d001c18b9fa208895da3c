@@ -1,0 +1,5 @@
+package com.te.jdbcbatch;
+
+public class CreateTable {
+
+}

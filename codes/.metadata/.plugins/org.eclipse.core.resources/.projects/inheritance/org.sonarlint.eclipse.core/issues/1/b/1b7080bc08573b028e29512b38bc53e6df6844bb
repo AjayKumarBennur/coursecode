@@ -1,0 +1,23 @@
+
+R
+java:S2440"&Remove this instantiation of "Parent".(ñ›ûĞHªRMAJORZ
+CODE_SMELL
+f
+java:S2209"5Change this instance-reference to a static reference.(ú ÁıÿÿÿÿHÕRMAJORZ
+CODE_SMELL
+f
+java:S2209"5Change this instance-reference to a static reference.(ê†éöûÿÿÿÿH«RMAJORZ
+CODE_SMELL
+f
+java:S2209"5Change this instance-reference to a static reference.(„…ˆúÿÿÿÿH°RMAJORZ
+CODE_SMELL
+Q
+java:S2440"%Remove this instantiation of "Child".(›ıÁîH§RMAJORZ
+CODE_SMELL
+a
+java:S2209"5Change this instance-reference to a static reference.(ò©—ÓH¨RMAJORZ
+CODE_SMELL
+V
+java:S2440
+"%Remove this instantiation of "Child".(’Å¿ÀÿÿÿÿÿH­RMAJORZ
+CODE_SMELL

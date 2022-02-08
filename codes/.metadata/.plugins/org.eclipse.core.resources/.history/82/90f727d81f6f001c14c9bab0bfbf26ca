@@ -1,0 +1,20 @@
+package com.te.spring.dao;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.EntityTransaction;
+import javax.persistence.Persistence;
+
+import com.te.spring.dto.RegisterModel;
+
+public class DaoLayer {
+	public boolean save(RegisterModel reg) {
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("dao");
+		EntityManager manager = emf.createEntityManager();
+		EntityTransaction transaction = manager.getTransaction();
+		transaction.begin();
+		manager.persist(reg);
+		transaction.commit();
+		return true;
+	}
+}

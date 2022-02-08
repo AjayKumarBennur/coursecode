@@ -1,0 +1,10 @@
+package com.te.rest.model;
+
+import lombok.Data;
+
+@Data
+public class Employee {
+	private int id =1;
+	private String name = "Ajay";
+	private String password ="1234";
+}

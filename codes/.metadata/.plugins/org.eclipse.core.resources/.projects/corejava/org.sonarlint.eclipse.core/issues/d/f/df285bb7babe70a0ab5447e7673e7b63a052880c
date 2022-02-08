@@ -1,0 +1,9 @@
+
+a
+java:S1854"5Remove this useless assignment to local variable "a".(êÉ“HŠRMAJORZ
+CODE_SMELL
+R
+java:S1481"&Remove this unused "a" local variable.(êÉ“H‹RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(š›­ÿÿÿÿÿHRMAJORZ
+CODE_SMELL

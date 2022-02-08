@@ -1,0 +1,7 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÃëòşÿÿÿÿHåRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(Ğ ƒ¾ûÿÿÿÿ8è¦áÈÔ/H¶RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ôï£¥øÿÿÿÿ8è¦áÈÔ/H·RMAJORZ
+CODE_SMELL

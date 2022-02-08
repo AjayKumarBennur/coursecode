@@ -1,0 +1,5 @@
+package com.technoelevate.Logger;
+
+public class Log4j {
+
+}

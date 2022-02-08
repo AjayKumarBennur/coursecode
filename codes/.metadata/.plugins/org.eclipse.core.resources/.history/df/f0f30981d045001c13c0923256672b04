@@ -1,0 +1,7 @@
+package loggerPractise;
+
+public class MyLogger {
+	public static void main(String[] args) {
+		
+	}
+}

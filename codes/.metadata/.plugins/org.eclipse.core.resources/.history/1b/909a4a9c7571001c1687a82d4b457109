@@ -1,0 +1,6 @@
+package com.te.spring.controller;
+
+
+public class MvcController {
+
+}

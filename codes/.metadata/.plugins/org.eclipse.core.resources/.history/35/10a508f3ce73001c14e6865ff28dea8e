@@ -1,0 +1,5 @@
+package com.te.rest.daol;
+
+public class StudentDaoHibernateImpl {
+
+}

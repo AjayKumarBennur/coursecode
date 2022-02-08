@@ -1,0 +1,17 @@
+package com.technoelevate.practise;
+
+import java.util.Arrays;
+
+public class Prob {
+	
+	public static void main(String[] args) {
+		
+		String s = "Ajaayaya";
+		
+		String s1 = String.stream(s).distinct().toArray();
+		for(int x : a) {
+			System.out.println(x);
+		}
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.te.email.dto;
+
+public class MailInfo {
+	private  int id;
+	private int from;
+	private int to;
+	private  String subject;
+	private String message;
+	private String status;
+}

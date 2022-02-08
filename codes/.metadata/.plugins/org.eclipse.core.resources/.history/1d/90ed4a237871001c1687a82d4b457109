@@ -1,0 +1,28 @@
+package com.te.spring.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.te.spring.dto.Employee;
+import com.te.spring.service.EmployeeService;
+
+@Controller
+public class MvcController {
+	
+	@Autowired
+	EmployeeService service;
+	
+	@GetMapping("/employee")
+	public String getinsert() {
+		return "insert";
+	}
+	
+	@PostMapping("/employee")
+	public String add(Employee emp) {
+		if(service.save(emp))
+			return "success";
+		return "failure";
+	}
+}

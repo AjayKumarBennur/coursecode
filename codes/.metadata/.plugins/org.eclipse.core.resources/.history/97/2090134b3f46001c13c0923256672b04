@@ -1,0 +1,10 @@
+package com.technoelevate.hashsetimpl;
+
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("HI");
+		LinkedListImpl list = new LinkedListImpl();
+		list.insert(2);
+		System.out.println(l);
+	}
+}

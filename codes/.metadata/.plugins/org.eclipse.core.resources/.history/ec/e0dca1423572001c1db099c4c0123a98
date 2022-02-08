@@ -1,0 +1,5 @@
+package com.te.email.daolayer;
+
+public interface DaoJpa implements Crud{
+
+}

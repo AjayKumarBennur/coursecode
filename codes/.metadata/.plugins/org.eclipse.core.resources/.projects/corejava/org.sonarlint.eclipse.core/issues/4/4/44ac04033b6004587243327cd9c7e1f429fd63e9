@@ -1,0 +1,9 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÒÒÌúÿÿÿÿ8†îºÿÔ/HœRMAJORZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(İü²ó8†îºÿÔ/HšRMAJORZ
+CODE_SMELL
+¼
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãëš²ÿÿÿÿÿ8¨ËÿÔ/H¥RCRITICALZ
+CODE_SMELL

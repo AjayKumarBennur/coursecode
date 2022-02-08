@@ -1,0 +1,25 @@
+
+k
+java:S2259"?A "NullPointerException" could be thrown; "t" is nullable here.(ğ¤ŞÉ8Îö¦Õ/HùRMAJORZBUG
+j	java:S106 "9Replace this use of System.out or System.err by a logger.(Äş!8•Éã¦Õ/HïRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(¬®÷½ÿÿÿÿÿ8ä¡ı¦Õ/H‰RMAJORZ
+CODE_SMELL
+t
+java:S1126"AReplace this if-then-else statement by a single return statement.(ğ¤ŞÉ8Îö¦Õ/HøRMINORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(òÓËƒ8Ôğ…§Õ/H¡RMAJORZ
+CODE_SMELL
+[
+java:S2157"%Add a "clone()" method to this class.(º§½¬8–œ§Õ/H‘RCRITICALZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(«îÔ§ùÿÿÿÿHÒRMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(°¶ÿ¹8İìÛ¦Õ/HîRMAJORZ
+CODE_SMELL
+|
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8Îö¦Õ/HöRMINORZBUG
+K
+java:S2097"Add a type test to this method.(ÜÑã8Îö¦Õ/H÷RMINORZBUG
+s	java:S125"<This block of commented-out lines of code should be removed.(òß¿•üÿÿÿÿ8Ç‡§Õ/H¸RMAJORZ
+CODE_SMELL

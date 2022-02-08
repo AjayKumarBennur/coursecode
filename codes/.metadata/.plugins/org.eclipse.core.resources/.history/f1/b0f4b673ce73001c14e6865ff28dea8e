@@ -1,0 +1,8 @@
+package com.te.rest.daol;
+
+import com.te.rest.dto.StudentInfo;
+
+public interface StudentDao {
+	
+	public StudentInfo register(StudentInfo info);
+}

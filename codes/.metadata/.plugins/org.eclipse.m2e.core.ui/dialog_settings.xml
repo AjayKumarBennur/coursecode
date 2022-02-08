@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Ajay\eclipse-workspace\springcrudmvc"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\logger"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\springmvc"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\springwithoutxml"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\chirstmasproject"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\demo"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\hibernatewtihjpa"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\FirstSpringMvc"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\hibernate"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\loggerdemo"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\practise"/>
+			<item value="C:\Users\Ajay\eclipse-workspace\JDBC"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.te.restdemo"/>
+			<item value="com.te.marshalling"/>
+			<item value="com.te.springrest"/>
+			<item value="com.te.sessionandcookies"/>
+			<item value="com.te.springcrudmvc"/>
+			<item value="com.te.emailsimulation"/>
+			<item value="com.te.springmvc"/>
+		</list>
+		<list key="groupId">
+			<item value="com.te"/>
+		</list>
+		<list key="artifactId">
+			<item value="restdemo"/>
+			<item value="marshalling"/>
+			<item value="springrest"/>
+			<item value="sessionandcookies"/>
+			<item value="springcrudmvc"/>
+			<item value="emailsimulation"/>
+			<item value="springmvc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="chirstmasproject"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="chirstmasproject"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="org.apache.maven.archetypes"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="maven-archetype-webapp"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="1.4"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value=""/>
+		</list>
+	</section>
+</section>

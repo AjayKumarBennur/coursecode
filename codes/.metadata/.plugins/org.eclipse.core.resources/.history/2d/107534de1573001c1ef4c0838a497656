@@ -1,0 +1,5 @@
+package com.te.dto;
+
+public class DtoClass {
+
+}

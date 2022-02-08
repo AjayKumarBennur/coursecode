@@ -1,0 +1,12 @@
+package practise;
+
+public class MainMethodClass {
+
+	public static void main(String[] args) {
+
+		Recursion.factorial(10);
+		
+		byte x = 2333;
+	}
+
+}

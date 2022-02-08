@@ -1,0 +1,11 @@
+package com.technoelevate.logger.practise;
+
+import java.util.logging.FileHandler;
+import java.util.logging.Logger;
+
+public class FileLogging {	
+	static final Logger logger = Logger.getLogger(FileLogging.class.getName());
+	public static void main(String[] args) {
+		FileHandler fileHandler = new FileHandler("C:\\Users\\Ajay\\Desktop\\Logger\\filelogger");		
+	}
+}

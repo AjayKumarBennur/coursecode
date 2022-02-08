@@ -1,0 +1,5 @@
+package com.te.email.dto;
+
+public class MailInfo {
+
+}

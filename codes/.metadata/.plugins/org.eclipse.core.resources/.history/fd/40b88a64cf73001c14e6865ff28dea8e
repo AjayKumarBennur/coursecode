@@ -1,0 +1,8 @@
+package com.te.rest.dto;
+
+public class StudentResponse {
+	
+	private boolean error;
+	private Object data;
+	
+}

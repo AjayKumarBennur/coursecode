@@ -1,0 +1,22 @@
+
+n
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(–¸Â+H›RBLOCKERZBUG
+d	java:S106"9Replace this use of System.out or System.err by a logger.(µ‚¡‚H˜RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÌŞãûÿÿÿÿH™RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(äñÔ“H—RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¥¢ÊÙH–RMAJORZ
+CODE_SMELL
+s
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ùÃ›ßúÿÿÿÿHšRBLOCKERZBUG
+g
+java:S3740"/Provide the parametrized type for this generic.(„û”Ôÿÿÿÿÿ8ñ³óÄÒ/H¾RMAJORZ
+CODE_SMELL
+m
+java:S1854"5Remove this useless assignment to local variable "d".(„û”Ôÿÿÿÿÿ8ñ³óÄÒ/H¿RMAJORZ
+CODE_SMELL
+^
+java:S1481"&Remove this unused "d" local variable.(„û”Ôÿÿÿÿÿ8ñ³óÄÒ/HÀRMINORZ
+CODE_SMELL

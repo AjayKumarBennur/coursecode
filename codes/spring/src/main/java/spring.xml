@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans 
+           http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+               
+     <context:annotation-config/>
+
+	<context:component-scan base-package="com.te.spring"></context:component-scan>
+   <!--   <bean id="pen" class="com.te.spring.BallPen"/>
+        
+	<bean id="en" class="com.te.spring.dependency.Engine">
+		<constructor-arg value="Turbo" />
+		<constructor-arg value="2000.00"/>
+	</bean>  -->   
+	
+	<!-- <bean id="engine" class="com.te.spring.dependency.Engine">
+		<constructor-arg value="Jetengine" />
+		<constructor-arg value="1500.00"/>
+	</bean>    
+	 -->
+<!-- 	<bean id="" class="com.te.spring.dependency.Engine">
+		<constructor-arg value="Jet"/>
+		<constructor-arg value="1500.00"/>
+	</bean>     -->
+
+<!-- 	<bean class="com.te.spring.dependency.Car" autowire="byName">
+		<property name="name" value="BMW"/>
+	</bean>	
+	 -->
+<!-- 	<bean class="com.te.spring.scope.ScopeDemo" scope="prototype"/>
+	
+	<bean class="com.te.spring.lifecycle.Demo"></bean> -->
+	
+	
+	
+<!-- 	<bean id="b" class="com.te.spring.autowiring.Battery">
+		<property name="name">
+			<value>Thooshiba</value>
+		</property>
+	</bean>
+	
+	<bean class="com.te.spring.autowiring.Laptop" autowire="byType" /> -->
+	
+</beans>

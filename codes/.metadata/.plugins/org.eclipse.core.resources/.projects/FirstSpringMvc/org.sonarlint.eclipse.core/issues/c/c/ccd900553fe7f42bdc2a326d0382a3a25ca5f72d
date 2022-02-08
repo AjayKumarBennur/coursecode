@@ -1,0 +1,9 @@
+
+
+java:S1989"YHandle the following exception that could be thrown by "openSession": HibernateException.(א·ג€רÿÿÿÿHRMINORZVULNERABILITY
+c	java:S106"9Replace this use of System.out or System.err by a logger.(µ½גüHRMAJORZ
+CODE_SMELL
+
+java:S1989"aHandle the following exception that could be thrown by "buildSessionFactory": HibernateException.(ע״ננHRMINORZVULNERABILITY
+…
+java:S1989"WHandle the following exception that could be thrown by "configure": HibernateException.(ע״ננHRMINORZVULNERABILITY

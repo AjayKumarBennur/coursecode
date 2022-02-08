@@ -1,0 +1,20 @@
+package com.technoelevate.logger.practise;
+
+import java.util.logging.ConsoleHandler;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+public class MyLogger {
+	public static final Logger LOGGER =Logger.getLogger(MyLogger.class.getName());
+	public static void main(String[] args) {
+		ConsoleHandler consoleHandler = new ConsoleHandler();
+		consoleHandler.setLevel(Level.FINE);
+		LOGGER.addHandler(consoleHandler);
+		LOGGER.setLevel(Level.FINE);
+		LOGGER.fine("I am from fine");
+		LOGGER.finer("I am from finer");
+		LOGGER.config("I am from config");
+		LOGGER.warning("I am from warning");
+		LOGGER.severe("I am from severe");
+	}
+}

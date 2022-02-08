@@ -1,0 +1,38 @@
+package com.te.lambdaexp;
+
+public class LambdaExpression {
+		
+	public static void message() {
+		System.out.println("From m1");
+	}
+	
+	public void print() {
+		System.out.println("From print");
+	}
+	
+	public static void main(String[] args) {
+		// LambdaExpression Implementation
+//		FunctionalIntr fn = ()-> {
+//				System.out.println("Hello Guys !");
+//		};
+//		fn.message();
+//		
+//		
+//		Runnable run = ()-> {
+//				System.out.println("Thread started and this is anonymus class");
+//		};
+//		
+//		Thread th = new Thread(run);
+//		th.start();
+//		
+//		FunctionalIntr fni = LambdaExpression::message;
+//		LambdaExpression lambdaExp = new LambdaExpression();
+//		FunctionalIntr fnir= lambdaExp::print;
+//		fni.message();
+//		fnir.message();
+		
+		Runnable run = LambdaExpression::message;
+		Thread thread = new Thread(run);
+		thread.start();
+	}
+}

@@ -1,0 +1,29 @@
+
+m
+java:S1854$"5Remove this useless assignment to local variable "z".(…ÄÛêÿÿÿÿÿ8éæÕ§Õ/HÎRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8›”ç§Õ/H©RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(È–ãÏúÿÿÿÿ8ó¢ø§Õ/H”RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ÈñØÍøÿÿÿÿ8Óà§Õ/HÝRMAJORZ
+CODE_SMELL
+^
+java:S1481 "&Remove this unused "k" local variable.(ªüÑâüÿÿÿÿ8éæÕ§Õ/HÑRMINORZ
+CODE_SMELL
+h
+java:S1854#"5Remove this useless assignment to local variable "y".(ê†Àþ8éæÕ§Õ/HÏRMAJORZ
+CODE_SMELL
+m
+java:S1854 "5Remove this useless assignment to local variable "k".(ªüÑâüÿÿÿÿ8éæÕ§Õ/HÐRMAJORZ
+CODE_SMELL
+Y
+java:S1481#"&Remove this unused "y" local variable.(ê†Àþ8éæÕ§Õ/HÓRMINORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ8¤øü§Õ/HðRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ê¤«Œ8’½µ§Õ/HÃRMAJORZ
+CODE_SMELL
+^
+java:S1481$"&Remove this unused "z" local variable.(…ÄÛêÿÿÿÿÿ8éæÕ§Õ/HÕRMINORZ
+CODE_SMELL

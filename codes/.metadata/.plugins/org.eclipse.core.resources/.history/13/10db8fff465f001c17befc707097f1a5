@@ -1,0 +1,18 @@
+package chirstmasproject;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.Scanner;
+
+public class PickYourSanta {
+	public static void main(String[] args) {
+		
+		List<String> list = Arrays.asList("Ajay","Nilim","Megha","Deepthi","Praveen","Jasmine","Mangesh");
+		Scanner scan = new Scanner(System.in);
+		for(int i=0;i<list.size();i++) {
+			double random = Math.random()*list.size();
+			System.out.println((int)random);
+		}
+		
+	}
+}

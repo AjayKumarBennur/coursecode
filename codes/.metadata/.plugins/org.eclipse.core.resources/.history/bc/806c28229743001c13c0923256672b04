@@ -1,0 +1,11 @@
+package practise;
+
+
+
+class MyClass{
+	public static void main(String[] args) {
+	Singer singer = {
+			
+	};
+	}
+}

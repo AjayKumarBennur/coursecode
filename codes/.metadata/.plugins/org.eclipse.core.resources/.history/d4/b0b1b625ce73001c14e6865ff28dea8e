@@ -1,0 +1,11 @@
+package com.te.rest.service;
+
+import com.te.rest.dto.StudentInfo;
+
+public interface StudentService {
+	
+	public void add(StudentInfo info);
+	
+	public void get();
+
+}

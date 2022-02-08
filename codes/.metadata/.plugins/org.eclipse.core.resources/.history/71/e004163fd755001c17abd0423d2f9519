@@ -1,0 +1,6 @@
+package com.te.lambdaexp;
+
+@FunctionalInterface
+public interface FunctionalIntr {
+	void message();
+}

@@ -1,0 +1,26 @@
+package com.technoelevate.hashsetimpl;
+
+public class LinkedListImpl {
+	
+	Node head;
+	public void insert(int data) {
+		System.out.println("inside insert");
+		Node node = new Node();
+		node.data=data;
+		node.next=null;
+		if(head==null) {
+			head=node;
+		}
+		Node n = head;
+		while(n.next!=null) {
+			n=n.next;
+		}
+		
+	}
+	@Override
+	public String toString() {
+		return "LinkedListImpl [head=" + head + "]";
+	}
+	
+	
+}

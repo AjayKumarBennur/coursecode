@@ -1,0 +1,36 @@
+
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8ÓÜŠºÕ/HäRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ü¨ºÕ/HğRMAJORZ
+CODE_SMELL
+l
+java:S1481!"4Remove this unused "threadLambdaExp" local variable.(ş‚Úœùÿÿÿÿ8ªˆ³ºÕ/HöRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(›Óğ°şÿÿÿÿ8Íç’ºÕ/HèRMAJORZ
+CODE_SMELL
+‚
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œäºÒúÿÿÿÿ8ü¨ºÕ/HíRMINORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(ë÷„“ùÿÿÿÿ8¤ô©ºÕ/HñRMAJORZ
+CODE_SMELL
+Š
+java:S1215$"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¢’«ºÕ/HòRCRITICALZ
+CODE_SMELL
+m
+java:S1191"5Use classes from the Java API instead of Sun classes.( ƒ™şüÿÿÿÿ8Íç’ºÕ/HêRMAJORZ
+CODE_SMELL
+{
+java:S1854!"CRemove this useless assignment to local variable "threadLambdaExp".(ş‚Úœùÿÿÿÿ8ªˆ³ºÕ/HõRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8ı»¡ºÕ/HìRMAJORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ª±•ºÕ/HëRMAJORZ
+CODE_SMELL
+h
+java:S1113"-Do not override the Object.finalize() method.(œäºÒúÿÿÿÿ8ü¨ºÕ/HîRCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(äˆÌ‰8Íç’ºÕ/HéRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(®€ôÀùÿÿÿÿ8–ùû¹Õ/HçRMAJORZ
+CODE_SMELL

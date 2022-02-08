@@ -1,0 +1,23 @@
+package com.technoelevate.logger.practise;
+
+import java.io.IOException;
+import java.util.logging.FileHandler;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
+public class FileLogging {	
+	static final Logger LOGGER = Logger.getLogger(FileLogging.class.getName());
+	public static void main(String[] args) throws SecurityException, IOException {
+		FileHandler fileHandler = new FileHandler("C:\\Users\\Ajay\\Desktop\\Logger\\filelogger");		
+		fileHandler.setLevel(Level.FINE);
+		LOGGER.addHandler(fileHandler);
+		LOGGER.setLevel(Level.ALL);
+		LOGGER.setLevel(Level.FINER);
+		LOGGER.fine("I am from fine");
+		LOGGER.finer("I am from finer");
+		LOGGER.config("I am from config");
+		LOGGER.warning("I am from warning");
+		LOGGER.severe("I am from severe");
+	
+	}
+}

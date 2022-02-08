@@ -1,0 +1,13 @@
+
+i	java:S106	"9Replace this use of System.out or System.err by a logger.(Î—ÅÍøÿÿÿÿH·RMAJORZ
+CODE_SMELL
+_
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(ÿïÐƒH´RMINORZ
+CODE_SMELL
+¬
+java:S1130"{Remove the declaration of thrown exception 'java.lang.IllegalAccessException' which is a subclass of 'java.lang.Exception'.(æ“³¹þÿÿÿÿH²RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Á‹–ëþÿÿÿÿH¶RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(èæ¤þûÿÿÿÿHµRMAJORZ
+CODE_SMELL

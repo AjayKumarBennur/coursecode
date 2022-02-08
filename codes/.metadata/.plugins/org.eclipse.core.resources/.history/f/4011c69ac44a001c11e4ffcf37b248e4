@@ -1,0 +1,23 @@
+package com.te.casting;
+
+public class Narrowing {
+	public static void main(String[] args) {
+		double d = 130.123;
+		float f = (float)d;
+		long l = (long)f;
+		int i = (int)l;
+		short s = (short)i;
+		byte b = (byte)s;
+		
+		
+		Float fl = (double)123.123;
+		
+		
+		System.out.println(b);
+		System.out.println(s);
+		System.out.println(i);
+		System.out.println(l);
+		System.out.println(f);
+		System.out.println(d);
+	}
+}

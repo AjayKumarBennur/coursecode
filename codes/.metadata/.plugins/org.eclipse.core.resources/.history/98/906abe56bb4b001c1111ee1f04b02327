@@ -1,0 +1,10 @@
+package com.te.abstractclass;
+
+public class Owner {
+	public static void main(String[] args) {
+		Labroder labroder = new Labroder();
+		labroder.eat();
+		labroder.bark();
+		labroder.poop();
+	}
+}

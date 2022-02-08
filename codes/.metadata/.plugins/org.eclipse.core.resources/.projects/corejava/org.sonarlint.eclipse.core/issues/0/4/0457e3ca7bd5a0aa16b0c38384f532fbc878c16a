@@ -1,0 +1,25 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.(’ÍÅ„8§ûÚ«Õ/H—RMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(ŸÖ³úùÿÿÿÿ8§ûÚ«Õ/H¥RMAJORZ
+CODE_SMELL
+h
+java:S1113"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8§ûÚ«Õ/H¤RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(øæóµüÿÿÿÿ8¸È«Õ/H”RMAJORZ
+CODE_SMELL
+‚
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÖÒ˜Ùùÿÿÿÿ8§ûÚ«Õ/H£RMINORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(—¬Êûÿÿÿÿ8ëÒÆ«Õ/H’RMAJORZ
+CODE_SMELL
+i
+java:S1854&"6Remove this useless assignment to local variable "s1".(áµ¤¾8òÄÉ«Õ/H–RMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(ÅËİûÿÿÿÿ8ëÒÆ«Õ/H“RMAJORZ
+CODE_SMELL
+Š
+java:S1215("TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8îèÛ«Õ/H±RCRITICALZ
+CODE_SMELL
+s	java:S125'"<This block of commented-out lines of code should be removed.(»šªÇüÿÿÿÿ8”¶Ü«Õ/H½RMAJORZ
+CODE_SMELL

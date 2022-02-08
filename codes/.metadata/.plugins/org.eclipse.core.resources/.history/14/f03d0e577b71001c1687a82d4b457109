@@ -1,0 +1,9 @@
+package com.te.spring.dao;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.te.spring.dto.Employee;
+
+public interface EmpJpaRepo extends CrudRepository<Employee, Integer>{
+
+}

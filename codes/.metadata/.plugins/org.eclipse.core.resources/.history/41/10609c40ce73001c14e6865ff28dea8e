@@ -1,0 +1,6 @@
+package com.te.rest.daol;
+
+public interface StudentDao {
+	
+	public Student register();
+}
